@@ -56,7 +56,7 @@ section{
      color: var(--color-Min);
   }
 .main{
-    background-image: url("img-main.png") ;
+    background-image: url("Img-main.png") ;
     background-repeat: no-repeat;
     background-size: cover;
     min-height: calc( 100vh - var(--height-header));
