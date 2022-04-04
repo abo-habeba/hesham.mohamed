@@ -1,1 +1,2 @@
-document.body.style.backgroundColor = "red";
+let sec = document.getElementsByTagNameNS('section');
+sec.style.backgroundColor = "red";
