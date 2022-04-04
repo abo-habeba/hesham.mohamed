@@ -243,3 +243,8 @@ section{
         font-size: 9px;
     }
 }
+    @media(prefers-color-scheme:dark){
+    	body{
+    		background-color: white;
+    	}
+    }
